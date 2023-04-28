@@ -1,5 +1,6 @@
 # Overview
 In this project, we performed analysis on Yelp review to help start a new restaurant. 
+**keywords**: json, MySQL, SQL, Pandas, Numpy.
 
 # Data source
 [data from:](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset).
