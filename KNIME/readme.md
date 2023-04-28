@@ -3,7 +3,7 @@ In this project, we created two **KNIME** workflows to solve two business proble
 
 # Highlight
 In loading.ipynb file, we connected **API** to get the secondary sales of NFT and load the data into **MongoDB**.
-
+The KNIME workflows can't be uploaed for preview, thus see [slides](https://docs.google.com/presentation/d/1k3l4iPjg0W66Vq1dtFsE4HS-4XSqvvHSwnaSMqAGUwM/edit?usp=sharing) project3 for details of this project.
 
 # Content
 ## 1. Yelp Data Transformation
