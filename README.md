@@ -2,7 +2,7 @@
 This repository records selected projects I have done during one-year study in MSBA at UIUC. Thanks to my professors and my teammates who worked with me. This has been a wonderful journey.
 
 # Project List
-- Yelp Data Analysis: 
+- Yelp Data Analysis: performed analysis on Yelp review to help start a new restaurant. keywords: json, MySQL, SQL, Pandas, Numpy.
 - KNIME: 
 
 # Other projects:
