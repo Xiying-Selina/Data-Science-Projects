@@ -1,5 +1,6 @@
 # Data-Science-Projects
-This repository records selected projects I have done during 9-month study in MSBA at UIUC. Thanks to my professors and my teammates who worked with me. This has been a wonderful journey.
+This repository records selected projects to showcase my skills including Python, R, SQL, and machine learning in data science. 
+They are mostly done during the 9-month study in MSBA at UIUC. Thanks to my professors and my teammates who worked with me. This has been a wonderful journey.
 
 # Project List
 1. **Yelp Data Analysis**: performed analysis on Yelp review to help start a new restaurant. keywords: **json, MySQL, SQL, Pandas, Numpy**.
